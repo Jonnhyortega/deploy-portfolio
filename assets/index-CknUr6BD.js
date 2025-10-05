@@ -84,8 +84,7 @@ Error generating stack: `+i.message+`
   text-align: center;
   animation: ${Nn} 0.8s ease forwards;
   min-height: 100vh;
-
-  background: pink;
+  
   div {
     display: flex;
     flex-wrap: wrap;
